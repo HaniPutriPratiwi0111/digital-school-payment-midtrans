@@ -6,10 +6,10 @@ Sistem pembayaran sekolah berbasis web ini mengintegrasikan Midtrans Payment Gat
 
 Pastikan lingkungan Anda memenuhi persyaratan berikut sebelum instalasi:
 
-* PHP versi [e.g., 8.0 atau lebih baru]
+* PHP versi [e.g., 8.2 atau lebih baru]
 * Composer
-* Database MySQL
-* Midtrans Account [e.g., MySQL / PostgreSQL]
+* Database MySQL [e.g., MySQL / PostgreSQL]
+* Midtrans Account [Sandbox/Production]
 
 ## Teknologi Frontend
 

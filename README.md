@@ -33,6 +33,7 @@ Ikuti langkah-langkah ini untuk menjalankan proyek secara lokal:
     ```bash
     composer install
     ```
+    *Langkah ini menginstal semua dependensi Laravel dan paket Midtrans (midtrans/midtrans-php) yang tercantum dalam composer.json.*
 
 3.  **Pengaturan Environment:**
     ```bash
